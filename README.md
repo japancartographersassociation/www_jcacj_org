@@ -7,4 +7,4 @@ www
 http://jcaci.org/
 
 テスト用URL
-http://japancartographersassociation.github.io/www/
+http://japancartographersassociation.github.io/www_jcaci_org/
