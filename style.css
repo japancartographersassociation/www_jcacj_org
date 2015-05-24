@@ -135,7 +135,7 @@ a:hover{text-decoration: none;}
 .nav > li{
 	float: left;
 	margin-top: 4px;
-	font-size: 16px;
+	font-size: 17px;
 }
 .nav > li a:hover{
 	background:transparent;
@@ -200,8 +200,12 @@ a:hover{text-decoration: none;}
 	color:#ffffff!important;
 }
 .ltc-2:hover{
-	color:#cccccc!important;
+	color:#ffff99!important;
 }
+.ltc-3{
+	color:#ffffff!important;
+}
+
 
 /* Icons */
 .icon-md{
