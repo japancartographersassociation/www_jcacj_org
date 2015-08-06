@@ -90,7 +90,7 @@ a:hover{text-decoration: none;}
 /* Custom bloc styling */
 
 #nav-bloc{
-	background-color:#65bDfF;
+	background-color:#5cb8e9;
 }
 #bloc-1,#bloc-2,#bloc-3,#bloc-4,#bloc-5,#bloc-6,#bloc-7,#bloc-8,#bloc-9,#bloc-10,#bloc-11,#bloc-12,#bloc-13,#bloc-14,#bloc-15,#bloc-16{
 	background-color:#ffffff;
@@ -186,11 +186,11 @@ a:hover{text-decoration: none;}
 /* Button colour styles */
 
 .btn-c-1{
-	background:#65bDfF;
+	background:#5cb8e9;
 	color:#FFF!important;
 }
 .btn-c-1:hover{
-	background:#65CAff;
+	background:#4a93ba;
 	color:#FFF!important;
 }
 
